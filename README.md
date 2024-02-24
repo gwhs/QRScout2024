@@ -1,1 +1,1 @@
-# QRScout2024
+# ScoutingPASS2024
