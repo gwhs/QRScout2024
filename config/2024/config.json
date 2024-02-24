@@ -54,6 +54,18 @@
           "defaultValue": false,
           "required": false,
           "code": "noShow"
+        },
+        {
+          "title": "Pick Up",
+          "type": "select",
+          "choices": {
+            "G": "Ground Pickup",
+            "S": "Scource",
+            "B": "Both"
+          },
+          "defaultValue": "none",
+          "required": false,
+          "code": "pick"
         }
       ]
     },
